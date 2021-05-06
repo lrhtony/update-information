@@ -1,0 +1,15 @@
+{
+    "latest_version":{
+        "version":0,
+        "ver":"0",
+        "description":"",
+        "download_url":"",
+        "backup_url":[],
+        "lanzous_url":"",
+        "file_MD5":"",
+        "script_url":"",
+        "script_MD5":"",
+        "must_update":false
+    },
+    "hotfix":[]
+}
